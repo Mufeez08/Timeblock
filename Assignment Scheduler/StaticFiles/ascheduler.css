@@ -1,0 +1,184 @@
+.top{
+background-color: lightblue;
+  padding-top: 50px;
+
+
+
+}
+.middle-container{
+background-color: lightblue;
+
+
+
+}
+.bottom-container{
+background-color: #CD113B;
+margin: 0;
+padding: 50px 0px 20px;
+
+}
+body{
+  margin: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  position: relative;
+
+}
+h1{
+  margin-top: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 562.5%;
+
+}
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 35px;
+}
+h3{
+  font-family: 'Poppins', sans-serif;
+}
+p{
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  font-weight: normal;
+}
+.calendar{
+  position: absolute;
+  height: 250px;
+  width: 200px;
+  border-radius: 50%;
+  padding-top: 100px;
+}
+
+.myPhoto{
+  height: 250px;
+  width: 200px;
+  border-radius: 50%;
+  padding-top: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+.guitar{
+  border-radius: 50%;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.gaming{
+  border-radius: 50%;
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+hr{
+  color: DeepSkyBlue;
+  border-style: dotted none none;
+  width: 5%;
+  border-color: grey;
+  border-width: 5px;
+  padding-top: 50px;
+
+
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #f1ffa1;
+  font-size: 20px;
+  background: #E93B81;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #fc3c89;
+  text-decoration: none;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+  margin-bottom: 50px;
+  line-height: 2;
+}
+.contact-me{
+  width: 50%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.footer-link{
+  padding-top: 50px;
+  color: #082032;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #8FD6E1;
+}
+.copyright{
+  color: #E1D89F;
+  padding: 20px 0px;
+}
+.cs{
+  color: #CD113B;
+  text-decoration: none;
+}
+.mth-prblm {
+  -webkit-border-radius: 50;
+  -moz-border-radius: 50;
+  border-radius: 50px;
+  font-family: Georgia;
+  color: #a3f9ff;
+  font-size: 20px;
+  background: #DF5E5E;
+  padding: 2px 5px 2px 5px;
+  border: solid #1f628d 3px;
+  text-decoration: none;
+}
+
+.mth-prblm:hover {
+  background: #fc3c89;
+  text-decoration: none;
+}
+.git{
+  padding-top: 100px;
+}
+.topnav {
+overflow: hidden;
+background-color: DeepSkyBlue;
+text-align: right;
+}
+
+.topnav a {
+float: right;
+color: #FF7600;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+font-style: 'Poppins';
+}
+
+.topnav a:hover {
+background-color: #ddd;
+color: black;
+}
+.resume{
+  font-style: Poppins;
+
+}
+.resume a:hover{
+  background-color: black;
+  color: lightblue;
+}
